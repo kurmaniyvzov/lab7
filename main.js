@@ -119,5 +119,3 @@ li13.classList.add('even');
 li13.style.color = 'green';
 li13.innerHTML = 'After you finish your work, submit it to the Github (<b>2 points</b>)';
 ul2.appendChild(li13)
-
-console.log(document)
